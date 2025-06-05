@@ -19,7 +19,22 @@ class SoundeksTest {
                 Arguments.of("Ashcroft", "A261"),
                 Arguments.of("Tymzcak", "T522"),
                 Arguments.of("Pfister", "P236"),
-                Arguments.of("Honeyman", "H555")
+                Arguments.of("Honeyman", "H555"),
+                Arguments.of("A", "A000"),
+                Arguments.of("I", "I000"),
+                Arguments.of("Ab", "A100"),
+                Arguments.of("Ac", "A200"),
+                Arguments.of("Adl", "A340"),
+                Arguments.of("Ajmr", "A256"),
+                Arguments.of("Dbcdlmr", "D123"),
+                Arguments.of("CAaEeIiOoUuHhYybcd", "C123"),
+                Arguments.of("Gbfcgdt", "G123"),
+                Arguments.of("abcd", "A123"),
+                Arguments.of("BCDL", "B234"),
+                Arguments.of("Jbob", "J110"),
+                Arguments.of("Bbcd", "B230"),
+                Arguments.of("Jbwb", "J100"),
+                Arguments.of("Jeremiah", "J650")
         );
     }
 
