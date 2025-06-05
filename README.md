@@ -1,2 +1,2 @@
-# soundeks
-A Soundex implementation for Norwegian
+# Soundeks
+A (soon-to-be) Norwegian Soundex implementation.
